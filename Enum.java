@@ -7,6 +7,6 @@ public class Enum{
   public static void main(String []args){
     FruitJuice juice=new FruitJuice();
     juice.size=FruitJuice.FruitJuiceSize.Medium;
-    System.out.println(juice.size);
+    System.out.println("Size: "+juice.size);
   }
 }
