@@ -4,7 +4,7 @@ public class Employee{
   public Employee(String EmpName){ //INSTANCE VARIABLE 
     name=EmpName;
   }
-  public void print(double EmpSal){ //INSTANCE VARIABLE
+  public void details(double EmpSal){ //INSTANCE VARIABLE
     salary=EmpSal;
   }
   public void display(){
@@ -14,7 +14,7 @@ public class Employee{
   public static void main(String []args){
     Employee e=new Employee("Vaishnav");
     e.details(1000.00);
-    E.display();
+    e.display();
   }
 }
     
