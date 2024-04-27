@@ -1,3 +1,5 @@
+//Demonstration of Static Variable Usage.
+
 import java.io.*;
 
 public class Employee {
