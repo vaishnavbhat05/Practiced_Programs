@@ -1,4 +1,4 @@
-/*Demonstration of Instance Variable.*/
+/*Demonstration of Instance Variable Usage.*/
 public class Employee{
   public String name;
   private double salary;
