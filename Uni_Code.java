@@ -1,4 +1,4 @@
-//Demonstration of Uni-Code System.
+//Assigning Unicode Values to Variables.
 public class UnicodeCharacterDemo {
    public static void main(String[] args) {
       // Storing Unicode characters using escape sequences
