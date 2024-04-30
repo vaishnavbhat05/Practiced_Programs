@@ -1,3 +1,4 @@
+//Demonstration of Uni-Code System.
 public class UnicodeCharacterDemo {
    public static void main(String[] args) {
       // Storing Unicode characters using escape sequences
