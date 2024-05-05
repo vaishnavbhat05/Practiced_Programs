@@ -1,3 +1,4 @@
+// Demonstration of Ternery Operator.//
 public class Test {
 
    public static void main(String args[]) {
