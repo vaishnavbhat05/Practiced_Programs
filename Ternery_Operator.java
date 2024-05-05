@@ -11,3 +11,8 @@ public class Test {
       System.out.println( "Value of b is : " + b );
    }
 }
+
+Output
+
+Value of b is : 30
+Value of b is : 20
