@@ -29,3 +29,7 @@ public class MyFirstJavaProgram {
       return (double) dividend / divisor;
    }
 }
+
+Output
+
+10.0
