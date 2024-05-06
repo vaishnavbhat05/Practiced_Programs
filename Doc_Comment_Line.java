@@ -1,6 +1,9 @@
+//Single Line Comment.
+/* Multi Line Comment.
+*/
 package com.tutorialspoint;
 
-/**
+/** 
  * This is a documentation comment. 
  * This is my first Java program.
  * This is an example of multi-line comments.
